@@ -1,4 +1,4 @@
-# Shop API Project Based On Django And DRF
+# Shop API Based On Django And DRF
 
 This is RESTful API based on django REST framework, which allows users to browse and add the products to the shopping cart and order them they can also write reviews for products, and has a customized admin panel for managing products and users.
 
