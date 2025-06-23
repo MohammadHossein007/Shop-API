@@ -1,0 +1,14 @@
+django
+django-debug-toolbar
+djangorestframework
+drf-nested-routers
+django-filter
+djoser
+djangorestframework-simplejwt
+pillow
+django-cors-headers
+django-templated-mail
+redis
+celery
+flower
+django-redis
